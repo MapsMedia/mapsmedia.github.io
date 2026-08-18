@@ -1,0 +1,28 @@
+EDIT THESE ITEMS BEFORE PUBLISHING
+
+1. index.html
+   - YOUR_EMAIL@example.com
+   - YOUR_GITHUB
+   - YOUR_LINKEDIN
+   - Add real live-project and repository links.
+
+2. assets/M_Seema_CV.pdf
+   - Replace this placeholder with your final ATS CV PDF.
+
+3. projects/
+   - Replace case-study placeholders with your real screenshots, process,
+     implementation details, live links and GitHub repositories.
+   - Keep project descriptions accurate: distinguish finished features
+     from planned/conceptual features.
+
+4. Personal branding
+   - Add a professional photo only if you want one.
+   - Refine the About section with your preferred personal introduction.
+
+5. Hosting
+   - Push the repository to GitHub.
+   - Enable GitHub Pages.
+   - Connect the same repository to Netlify.
+
+This version is intentionally editable. The animation architecture is kept separate
+from the content so you can change text, links and images without rebuilding the site.
